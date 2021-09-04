@@ -3,7 +3,7 @@
         "sandbox": {
             "baseUrl": "https://gateway.nubentos.com:443",
             "autherization": "Vnh4Z3JacDRGQUQzZVJPMnhDN3VsaG5UeG9JYTphQUc1d1NFRTYxc2pFNzJWUnBiMjJLaHpKdjhh",
-            "accessToken": "a36edc8f-74f6-31ed-86a5-e620faf28b40",
+            "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjEyOTAzOTM1LCJqdGkiOiI1NDUyMmFmM2EzNWI0MGM4ODE1MmE3NWM5OTg4MTZlZCIsInVzZXJfaWQiOjJ9.AORGaQaYC_MB1h9mYY0BZnTd0Ajx2y7l5r1XMB6IgOw",
         },
         "production": {}
     }

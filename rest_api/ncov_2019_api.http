@@ -82,3 +82,10 @@ GET https://api:branch_detail_view:6379
 ###
 
 GET https://bilalozcan.site/get.php
+
+
+###
+
+POST https://test.yemekkalmasin.com/api/reseller/template/product-template-create/
+Accept: application/json
+Authorization: Bearer {{accessToken}}
